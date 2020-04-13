@@ -1,2 +1,4 @@
-# formbaran
-tugas java2olinasokhibuulolo2017804264
+nama: Olinasokhi Buulolo
+NPM :2017804264
+kelas: si6d
+tugas java2
